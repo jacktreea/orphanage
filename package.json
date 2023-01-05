@@ -1,0 +1,32 @@
+{
+  "name": "oms",
+  "version": "1.0.0",
+  "description": "Orphanage Management System ",
+  "main": "index.php",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/software-power/power-orphanage.git"
+  },
+  "keywords": [
+    "rental",
+    "management",
+    "system"
+  ],
+  "author": "jacktreea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/software-power/power-orphanage/issues"
+  },
+  "homepage": "https://github.com/software-power/power-orphanage#readme",
+  "dependencies": {
+    "froala-editor": "^4.0.14",
+    "toastr": "^2.1.4"
+  }
+}
