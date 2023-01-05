@@ -5,3 +5,5 @@ Orphanage Home Management System (OHMS) is designed mostly for orphanage home ce
 The Project was written using plain php language and MYSQL for managing DATA so to install it Download Xampp and install it in your computer then clone the project and paste it to HTDOCS directory from Xampp then start apache and mysql from xampp service. Import database located from database folder of project to mysql DBMS. After doing that access the project using locahost/orphage
 
 
+![alt text](https://github.com/[jacktreea]/[orphanage]/blob/[main]/2.jpg?raw=true)
+
